@@ -1,0 +1,27 @@
+header {
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    padding: 40px 64px;
+
+    background: linear-gradient(90deg, #202024 0%, #00291D 100%);
+
+    div.profile-info {
+        display: flex;
+        align-items: center;
+
+        strong {
+            margin-right: 16px;
+            color: #fff;
+        }
+
+        img {
+            width: 80px;
+            height: 80px;
+
+            border-radius: 40px;
+        }
+    }
+}

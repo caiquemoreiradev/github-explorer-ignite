@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(18, 18, 20);
+    color: rgb(168, 168, 179);
+
+    font-family: 'Poppins', sans-serif;
+
+    &::-webkit-scrollbar {
+        display: none;
+    }
+}

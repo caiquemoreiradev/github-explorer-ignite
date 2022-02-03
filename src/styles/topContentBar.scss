@@ -1,0 +1,44 @@
+div.top-content-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    padding: 64px;
+
+    border-bottom: 1px solid #505059;
+
+    div.search-user {
+
+        display: flex;
+
+        input {
+            padding: 8px 16px;
+            border-radius: 8px 0 0 8px;
+
+            border: none;
+
+            width: 300px;
+        }
+
+        div.search-button {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+
+            padding: 8px 16px;
+            border-radius: 0 8px 8px 0;
+
+            background-color: #00875F;
+
+            &:hover {
+                opacity: 0.7;
+                cursor: pointer;
+            }
+
+            p {
+                color: #fff;
+                margin-left: 4px;
+            }
+        }
+    }
+}

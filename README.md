@@ -33,13 +33,13 @@ Aprendi bastante sobre controle de estados, configuração do React então foi u
 Clone o projeto
 
 ```bash
-  git clone https://github.com/caiquemoreiradev/reactjs-conceitos-ignite.git
+  git clone https://github.com/caiquemoreiradev/github-explorer-ignite.git
 ```
 
 Entre no diretório do projeto
 
 ```bash
-  cd reactjs-conceitos-ignite
+  cd github-explorer-ignite
 ```
 
 Instale as dependências

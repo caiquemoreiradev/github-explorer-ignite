@@ -13,7 +13,7 @@ A ideia era listar repositórios de um usuário no Github, a príncipio está tr
 
 ## Demonstração
 
-![App Screenshot](https://gfycat.com/insecurelamejunco)
+![App Screenshot](https://thumbs.gfycat.com/SpanishDisguisedHarrierhawk-size_restricted.gif)
 
 
 ## Stack utilizada
